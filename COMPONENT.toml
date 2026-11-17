@@ -3,7 +3,7 @@ name = "SigmaOS-arch-custom-kernel"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "arch-custom-kernel component"
+description = "GitHub description is a placeholder; component scope remains unclassified."
 upstream = []
 
 [contract]
